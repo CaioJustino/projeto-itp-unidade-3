@@ -9,7 +9,7 @@ O presente projeto consiste em dois programas: um "encoder" para gerar uma image
 1. Clone este repositório em sua máquina local.
 
 ```
-git clone https://github.com/<>
+git clone [https://github.com/<>](https://github.com/CaioJustino/projeto-itp-unidade-3.git)
 ```
 <br>
 
