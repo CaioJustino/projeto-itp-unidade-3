@@ -29,7 +29,9 @@ gcc -o Encoder Encoder.c Utils.c
 ```
 gcc -o Decoder Decoder.c Utils.c
 ```
+<br>
 
+4. Se preferir, outro compilador pode ser utilizado.
 ## Execução
 <br>
 
