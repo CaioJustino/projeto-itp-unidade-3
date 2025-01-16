@@ -1,6 +1,6 @@
 # PROJETO - ITP - UNIDADE 3
 
-O presente projeto consiste em dois programas: um "encoder" para gerar uma imagem no formato PBM com um código de barra no padrão EAN-8 (representando um determinado identificador), e um "decoder" para extrair o identificador representado na imagem.
+O presente projeto consiste em dois programas: um codificador para gerar uma imagem no formato PBM com um código de barra no padrão EAN-8 (representando um determinado identificador), e um decodificador para extrair o identificador representado na imagem.
 <br><br>
 
 ## Configuração e Instalação
